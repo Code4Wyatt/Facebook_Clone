@@ -1,4 +1,5 @@
 import './App.css';
+import Header from './Header';
 
 function App() {
   return (
@@ -6,7 +7,7 @@ function App() {
     <div className="app">
       <h1>Facebook Clonage Time!</h1>
 
-      {/* Header */}
+      <Header />
 
       {/* App body */}
       {/* Sidebar */}
