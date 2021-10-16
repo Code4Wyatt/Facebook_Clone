@@ -1,3 +1,7 @@
+import { Avatar, IconButton, } from "@material-ui/core";
+import AddIcon from '@mui/icons-material/Add';
+import NotificationsIcon from '@mui/icons-material/Notifications';
+import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 import React from "react";
 import "./Header.css";
 
@@ -90,7 +94,16 @@ function Header() {
           </svg>
         </div>
       </div>
-      <div className="header__right"></div>
+          <div className="header__right">
+              <div className="header__info">
+                  <Avatar />
+                  <h4>ssshange</h4>
+              </div>
+
+              <IconButton>
+                  <AddIcon/>
+              </IconButton>
+      </div>
     </div>
   );
 }
