@@ -1,5 +1,6 @@
 import { Avatar, IconButton, } from "@material-ui/core";
 import AddIcon from '@mui/icons-material/Add';
+import ForumIcon from '@mui/icons-material/Forum';
 import NotificationsIcon from '@mui/icons-material/Notifications';
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 import React from "react";
@@ -102,6 +103,16 @@ function Header() {
 
               <IconButton>
                   <AddIcon/>
+              </IconButton>
+              <IconButton>
+                  <ForumIcon/>
+
+              </IconButton>
+              <IconButton>
+                  <NotificationsIcon/>
+              </IconButton>
+              <IconButton>
+                  <ExpandMoreIcon/>
               </IconButton>
       </div>
     </div>
