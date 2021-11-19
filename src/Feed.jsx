@@ -33,7 +33,7 @@ function Feed() {
       />
       <Post
         profilePic="https://media-exp1.licdn.com/dms/image/C4E03AQFjH2M4r3umhQ/profile-displayphoto-shrink_200_200/0/1629117547194?e=1642636800&v=beta&t=4u_D_k0dRgzK84Xu5-2S3DFN-zdierUdEeay9LJv4Wg"
-        message="I had a great time building this, learned a lot as I went and cannot wait to apply these skills to some new-found ideas! I am forever striving to broaden my coding horizons and expand my skills in Full Stack development, with a particular fondness for the Front End. You can find my LinkedIn @ https://www.linkedin.com/in/paul-murray-519659197/"
+        message="I had a great time building this, learned a lot as I went and cannot wait to apply these skills to some new found ideas! I am forever striving to broaden my coding horizons and expand my skills in Full Stack development, with a particular fondness for the Front End. You can find my LinkedIn @ https://www.linkedin.com/in/paul-murray-519659197/"
         timestamp="19 November 2021"
         username="Paul Murray"
         image="https://about.linkedin.com/etc.clientlibs/settings/wcm/designs/gandalf/clientlibs/resources/images/og-social-share-image.jpg"
