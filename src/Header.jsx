@@ -25,7 +25,7 @@ function Header() {
           >
             <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z" />
           </svg>
-          <input placeholder="Search Facebook" type="text" />
+          <input placeholder="  Search Facebook" type="text" />
         </div>
       </div>
       <div className="header__center">
@@ -97,7 +97,7 @@ function Header() {
       </div>
           <div className="header__right">
               <div className="header__info">
-                  <Avatar />
+                  <Avatar className="header__avatar" src="https://media-exp1.licdn.com/dms/image/C4E03AQFjH2M4r3umhQ/profile-displayphoto-shrink_200_200/0/1629117547194?e=1642636800&v=beta&t=4u_D_k0dRgzK84Xu5-2S3DFN-zdierUdEeay9LJv4Wg" />
                   <h4>Paul</h4>
               </div>
 
