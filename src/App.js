@@ -13,8 +13,6 @@ function App() {
       <div className="app_body">
         <Sidebar />
         <Feed />
-
-        {/* Feed */}
         {/* Widgets */}
       </div>
 
