@@ -36,7 +36,7 @@ function Feed() {
         message="I had a great time building this, learned a lot as I went and cannot wait to apply these skills to some new ideas! I am forever striving to broaden my coding horizons and expand my skills in Full Stack development, with a particular fondness for the Front End. You can find my LinkedIn @ https://www.linkedin.com/in/paul-murray-519659197/"
         timestamp="19 November 2021"
         username="Paul Murray"
-        image="https://about.linkedin.com/etc.clientlibs/settings/wcm/designs/gandalf/clientlibs/resources/images/og-social-share-image.jpg"
+        image="https://www.kinesisinc.com/wp-content/uploads/2020/04/linkedin-101-hero@2x.png"
       />
     </div>
   );
